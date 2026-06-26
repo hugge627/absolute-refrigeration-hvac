@@ -13,7 +13,7 @@ const BIZ = {
   phoneHref: '+18063687393',
   email: 'absolutehvacrservices@gmail.com',
   address: '7009 County Rd 1500, Lubbock, TX 79407',
-  license: 'TACLB78502C',
+  license: 'TACLB76502C',
   years: '18',
   facebook: 'https://www.facebook.com/THE.COOL.PLACE.TO.CALL',
   instagram: 'https://www.instagram.com/absolutehvacrservices',
